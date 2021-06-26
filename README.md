@@ -1,5 +1,5 @@
 ### Olá, seja bem-vindo ao meu perfil do GitHub 👋
-Aqui está algumas das minhas redes sociais e formas de contatos:
+Aqui está algumas das minhas redes sociais e formas de contato:
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/VinicioLima98)](https://github.com/VinicioLima98)
